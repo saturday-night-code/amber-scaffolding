@@ -43,6 +43,7 @@ First, you need to have installed Crystal and Amber.
 
   1. Create new Amber project: `amber new projectName` and `cd projectName`
   2. Install dependencies: `shards install`
+  3. Install Node dependencies: `npm install`
 </details>
 
 <details>
@@ -57,7 +58,7 @@ First, you need to have installed Crystal and Amber.
      2. Migration and Create DB: `amber db create migrate`
 </details>
 
-Amber project build and serve: `amber watch`
+Run Amber project: `amber watch`
 
 Use `amber routes` to see all routes in your project.
 
