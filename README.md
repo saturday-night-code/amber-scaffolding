@@ -57,6 +57,8 @@ First, you need to have installed Crystal and Amber.
      2. Migration and Create DB: `amber db create migrate`
 </details>
 
+Amber project build and serve: `amber watch`
+
 Use `amber routes` to see all routes in your project.
 
 ## Contributing
