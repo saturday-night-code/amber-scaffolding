@@ -23,6 +23,9 @@ First, you need to have installed Crystal and Amber.
   2. Install Crystal: `curl https://dist.crystal-lang.org/apt/setup.sh | sudo bash` and `sudo apt-get install build-essential crystal`
 
   After installation, run: `crystal --version` to verify that it was correctly installed.
+  
+  For Windows 10:
+  1. The Crystal compiler doesn’t run on Windows yet, but it can be used with WSL (use linux installation guide in this case).
 </details>
 
 <details>
@@ -36,6 +39,9 @@ First, you need to have installed Crystal and Amber.
      3. `cd amber-stable/` and `shards install`, finally: `make install`
   
   About Amber installation on other Linux Distributions: [Amber - Installation](https://docs.amberframework.org/amber/guides/installation)
+  
+  For Windows 10:
+  1. As the Crystal compiler doesn't run on Windows yet, Amber doesn't either.
 </details>
 
 <details>
