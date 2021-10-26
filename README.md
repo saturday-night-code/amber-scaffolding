@@ -70,9 +70,9 @@ Use `amber routes` to see all routes in your project.
 
 ## Contributing
 
-1. Fork it (<https://github.com/saturday-night-code/CR_amsca/fork>)
-2. Create your feature branch (`git checkout -b CR_amsca-Type-feature`)
+1. Fork it (<https://github.com/saturday-night-code/amber-scaffolding/fork>)
+2. Create your feature branch (`git checkout -b feature`)
 3. Commit your changes (`git commit -am 'Type: some feature'`)
    1. Available Types (replace in Type): Add|Fix|Review
-4. Push to the branch (`git push origin CR_amsca-Type-feature`)
+4. Push to the branch (`git push origin feature`)
 5. Create a new Pull Request
