@@ -1,6 +1,6 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/87999310" alt="saturday night code logo" width="122px" style="border-radius: 10px"/></p>
 
-<h1 align="center">CR_amsca</h1>
+<h1 align="center">amber-scaffolding</h1>
 
 A CRUD(Create, Read, Update, Delete) using Amber Generate in Crystal.
 
